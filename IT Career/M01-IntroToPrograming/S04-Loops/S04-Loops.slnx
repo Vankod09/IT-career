@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="P01-Numbers1To100/P01-Numbers1To100.csproj" />
+  <Project Path="P02-NumbersEndingIn7/P02-NumbersEndingIn7.csproj" />
+  <Project Path="P03-LatinLetters/P03-LatinLetters.csproj" />
+  <Project Path="P04-SumOfNumbers/P04-SumOfNumbers.csproj" />
+  <Project Path="P05-MaxNumber/P05-MaxNumber.csproj" />
+  <Project Path="P06-MinNumber/P06-MinNumber.csproj" />
+  <Project Path="P07-LeftRightSum/P07-LeftRightSum.csproj" />
+</Solution>
