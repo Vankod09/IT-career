@@ -19,4 +19,6 @@
   <Project Path="P20-NumbersPowerOf2/P20-NumbersPowerOf2.csproj" Id="e131761c-d385-44bb-8a18-cf0ae4c8bdec" />
   <Project Path="P21-EvenPowerOf2/P21-EvenPowerOf2.csproj" Id="0c0dfe71-8a31-48ee-8e2a-5cd88006742d" />
   <Project Path="P22-OrderOf2KPlus1/P22-OrderOf2KPlus1.csproj" Id="ee8a88d0-6f42-41a4-8868-169fff12ee8c" />
+  <Project Path="P23-TheLCD(NOD)/P23-TheLCD(NOD).csproj" Id="70001d55-05dc-4b9b-b9b1-7fb6aca450a9" />
+  <Project Path="P24-Factoriel/P24-Factoriel.csproj" Id="1fdcea28-d035-4c4e-b0b3-6d398749da4b" />
 </Solution>
