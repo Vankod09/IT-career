@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="P01-SumOfElements/P01-SumOfElements.csproj" />
+  <Project Path="P02-BiggestAndSmallestNumber/P02-BiggestAndSmallestNumber.csproj" />
+  <Project Path="P03-AverageNum/P03-AverageNum.csproj" />
+  <Project Path="P04-InvertedRow/P04-InvertedRow.csproj" />
+  <Project Path="P05-CheckIfNIsInList/P05-CheckIfNIsInList.csproj" />
+  <Project Path="P06-HowManyNegativeN/P06-HowManyNegativeN.csproj" />
+  <Project Path="P07-AscendingOrder/P07-AscendingOrder.csproj" />
+</Solution>
